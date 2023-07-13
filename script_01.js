@@ -10,8 +10,15 @@
 
 // Konsolen-Ausgaben
 // console.log("Hi");
-// console.log(firstName);
+// console.log(firstName); 
 
 
 /***** 02 Deklaration + Wertzuweisung I *******/
 
+let firstName; // Deklaration (Definition)
+firstName = "Max"; // Wertzuweisung
+console.log(firstName); // Ausgabe
+
+let familyName;
+familyName = "Mütze";
+console.log(familyName);
